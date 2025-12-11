@@ -33,7 +33,8 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Bhavagrwl&show_icons=true&theme=github_dark" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=Bhavagrwl&theme=github-dark&hide_border=true" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Bhavagrwl&theme=github-dark" />
+  <img width="48%" src="https://streak-stats.demolab.com?user=Bhavagrwl&theme=github-dark&hide_border=true" />
 </p>
 
 ---
